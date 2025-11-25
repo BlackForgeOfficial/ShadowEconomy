@@ -20,8 +20,6 @@ Always use ShadowEco in your code — using ShadowEconomy will not work and your
 
 * **API calls**
 
-Download Markdown File
-
 ---
 
 ## 🚀 Getting Started with the API
