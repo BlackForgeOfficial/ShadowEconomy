@@ -1,8 +1,26 @@
-# ShadowEco API Documentation
+# ShadowEconomy(Shadoweco) API Documentation
 
 This document provides comprehensive details and usage examples for the `ShadowEcoAPI`, allowing developers to integrate their plugins seamlessly with the ShadowEco economy system.
 
 The `ShadowEcoAPI` provides asynchronous methods to manage player balances, ensuring your plugin remains lag-free and performs optimally. All API methods return `CompletableFuture`s, which complete when the operation is finished.
+
+## ⚠ Important Naming Notice
+
+The plugin’s full name is ShadowEconomy, but the API and code strictly use the short form: ShadowEco.
+
+Always use ShadowEco in your code — using ShadowEconomy will not work and your plugin will fail to hook into the economy system.
+
+** 🔹 Use ShadowEco in: **
+
+** pom.xml dependency **
+
+** plugin.yml (softdepend) **
+
+** Java imports **
+
+** API calls **
+
+Download Markdown File
 
 ---
 
