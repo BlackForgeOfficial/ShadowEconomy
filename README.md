@@ -10,15 +10,15 @@ The plugin’s full name is ShadowEconomy, but the API and code strictly use the
 
 Always use ShadowEco in your code — using ShadowEconomy will not work and your plugin will fail to hook into the economy system.
 
-** 🔹 Use ShadowEco in: **
+**🔹 Use ShadowEco in:**
 
-** pom.xml dependency **
+**pom.xml dependency**
 
-** plugin.yml (softdepend) **
+**plugin.yml (softdepend)**
 
-** Java imports **
+**Java imports**
 
-** API calls **
+**API calls**
 
 Download Markdown File
 
